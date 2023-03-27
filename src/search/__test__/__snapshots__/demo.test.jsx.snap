@@ -41,25 +41,33 @@ exports[`Search > Search baseVue demo works fine 1`] = `
           
         </div>
         <div
-          class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+          class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
         >
           <div
-            class="t-cell__left"
+            class="t-input__wrap--prefix"
           >
-            <!--v-if-->
-            <!--v-if-->
-          </div>
-          <!--v-if-->
-          <div
-            class="t-cell__note"
-          >
-            
             <div
-              class="t-input__wrap"
+              class="t-input__icon--prefix"
+            >
+              
+              
+              <!--v-if-->
+            </div>
+            <div
+              class="t-input__label"
+            >
+              <!---->
+            </div>
+          </div>
+          <div
+            class="t-input__wrap"
+          >
+            <div
+              class="t-input__content t-input--default"
             >
               <input
                 autocomplete="Off"
-                class="t-input__control"
+                class="t-input__control t-input--default"
                 maxlength="-1"
                 name=""
                 placeholder="请输入关键字"
@@ -67,11 +75,10 @@ exports[`Search > Search baseVue demo works fine 1`] = `
               />
               <!--v-if-->
               <!--v-if-->
+              <!--v-if-->
             </div>
             <!--v-if-->
-            
           </div>
-          <!--v-if-->
         </div>
         <div
           class="t-search__icon-close"
@@ -199,25 +206,33 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                 
               </div>
               <div
-                class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+                class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
               >
                 <div
-                  class="t-cell__left"
+                  class="t-input__wrap--prefix"
                 >
-                  <!--v-if-->
-                  <!--v-if-->
-                </div>
-                <!--v-if-->
-                <div
-                  class="t-cell__note"
-                >
-                  
                   <div
-                    class="t-input__wrap"
+                    class="t-input__icon--prefix"
+                  >
+                    
+                    
+                    <!--v-if-->
+                  </div>
+                  <div
+                    class="t-input__label"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <div
+                  class="t-input__wrap"
+                >
+                  <div
+                    class="t-input__content t-input--default"
                   >
                     <input
                       autocomplete="Off"
-                      class="t-input__control"
+                      class="t-input__control t-input--default"
                       maxlength="-1"
                       name=""
                       placeholder="请输入关键字"
@@ -225,11 +240,10 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                     />
                     <!--v-if-->
                     <!--v-if-->
+                    <!--v-if-->
                   </div>
                   <!--v-if-->
-                  
                 </div>
-                <!--v-if-->
               </div>
               <div
                 class="t-search__icon-close"
@@ -345,25 +359,33 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                 
               </div>
               <div
-                class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+                class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
               >
                 <div
-                  class="t-cell__left"
+                  class="t-input__wrap--prefix"
                 >
-                  <!--v-if-->
-                  <!--v-if-->
-                </div>
-                <!--v-if-->
-                <div
-                  class="t-cell__note"
-                >
-                  
                   <div
-                    class="t-input__wrap"
+                    class="t-input__icon--prefix"
+                  >
+                    
+                    
+                    <!--v-if-->
+                  </div>
+                  <div
+                    class="t-input__label"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <div
+                  class="t-input__wrap"
+                >
+                  <div
+                    class="t-input__content t-input--default"
                   >
                     <input
                       autocomplete="Off"
-                      class="t-input__control"
+                      class="t-input__control t-input--default"
                       maxlength="-1"
                       name=""
                       placeholder="搜索预设文案"
@@ -371,11 +393,10 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                     />
                     <!--v-if-->
                     <!--v-if-->
+                    <!--v-if-->
                   </div>
                   <!--v-if-->
-                  
                 </div>
-                <!--v-if-->
               </div>
               <div
                 class="t-search__icon-close"
@@ -470,25 +491,33 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                 
               </div>
               <div
-                class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+                class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
               >
                 <div
-                  class="t-cell__left"
+                  class="t-input__wrap--prefix"
                 >
-                  <!--v-if-->
-                  <!--v-if-->
-                </div>
-                <!--v-if-->
-                <div
-                  class="t-cell__note"
-                >
-                  
                   <div
-                    class="t-input__wrap"
+                    class="t-input__icon--prefix"
+                  >
+                    
+                    
+                    <!--v-if-->
+                  </div>
+                  <div
+                    class="t-input__label"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <div
+                  class="t-input__wrap"
+                >
+                  <div
+                    class="t-input__content t-input--default"
                   >
                     <input
                       autocomplete="Off"
-                      class="t-input__control"
+                      class="t-input__control t-input--default"
                       maxlength="-1"
                       name=""
                       placeholder="搜索预设文案"
@@ -496,11 +525,10 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                     />
                     <!--v-if-->
                     <!--v-if-->
+                    <!--v-if-->
                   </div>
                   <!--v-if-->
-                  
                 </div>
-                <!--v-if-->
               </div>
               <div
                 class="t-search__icon-close"
@@ -609,25 +637,33 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                 
               </div>
               <div
-                class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+                class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
               >
                 <div
-                  class="t-cell__left"
+                  class="t-input__wrap--prefix"
                 >
-                  <!--v-if-->
-                  <!--v-if-->
-                </div>
-                <!--v-if-->
-                <div
-                  class="t-cell__note"
-                >
-                  
                   <div
-                    class="t-input__wrap"
+                    class="t-input__icon--prefix"
+                  >
+                    
+                    
+                    <!--v-if-->
+                  </div>
+                  <div
+                    class="t-input__label"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <div
+                  class="t-input__wrap"
+                >
+                  <div
+                    class="t-input__content t-input--default"
                   >
                     <input
                       autocomplete="Off"
-                      class="t-input__control"
+                      class="t-input__control t-input--default"
                       maxlength="-1"
                       name=""
                       placeholder="搜索预设文案"
@@ -635,11 +671,10 @@ exports[`Search > Search mobileVue demo works fine 1`] = `
                     />
                     <!--v-if-->
                     <!--v-if-->
+                    <!--v-if-->
                   </div>
                   <!--v-if-->
-                  
                 </div>
-                <!--v-if-->
               </div>
               <div
                 class="t-search__icon-close"
@@ -760,25 +795,33 @@ exports[`Search > Search statusVue demo works fine 1`] = `
             
           </div>
           <div
-            class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+            class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
           >
             <div
-              class="t-cell__left"
+              class="t-input__wrap--prefix"
             >
-              <!--v-if-->
-              <!--v-if-->
-            </div>
-            <!--v-if-->
-            <div
-              class="t-cell__note"
-            >
-              
               <div
-                class="t-input__wrap"
+                class="t-input__icon--prefix"
+              >
+                
+                
+                <!--v-if-->
+              </div>
+              <div
+                class="t-input__label"
+              >
+                <!---->
+              </div>
+            </div>
+            <div
+              class="t-input__wrap"
+            >
+              <div
+                class="t-input__content t-input--default"
               >
                 <input
                   autocomplete="Off"
-                  class="t-input__control"
+                  class="t-input__control t-input--default"
                   maxlength="-1"
                   name=""
                   placeholder="搜索预设文案"
@@ -786,11 +829,10 @@ exports[`Search > Search statusVue demo works fine 1`] = `
                 />
                 <!--v-if-->
                 <!--v-if-->
+                <!--v-if-->
               </div>
               <!--v-if-->
-              
             </div>
-            <!--v-if-->
           </div>
           <div
             class="t-search__icon-close"
@@ -885,25 +927,33 @@ exports[`Search > Search statusVue demo works fine 1`] = `
             
           </div>
           <div
-            class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+            class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
           >
             <div
-              class="t-cell__left"
+              class="t-input__wrap--prefix"
             >
-              <!--v-if-->
-              <!--v-if-->
-            </div>
-            <!--v-if-->
-            <div
-              class="t-cell__note"
-            >
-              
               <div
-                class="t-input__wrap"
+                class="t-input__icon--prefix"
+              >
+                
+                
+                <!--v-if-->
+              </div>
+              <div
+                class="t-input__label"
+              >
+                <!---->
+              </div>
+            </div>
+            <div
+              class="t-input__wrap"
+            >
+              <div
+                class="t-input__content t-input--default"
               >
                 <input
                   autocomplete="Off"
-                  class="t-input__control"
+                  class="t-input__control t-input--default"
                   maxlength="-1"
                   name=""
                   placeholder="搜索预设文案"
@@ -911,11 +961,10 @@ exports[`Search > Search statusVue demo works fine 1`] = `
                 />
                 <!--v-if-->
                 <!--v-if-->
+                <!--v-if-->
               </div>
               <!--v-if-->
-              
             </div>
-            <!--v-if-->
           </div>
           <div
             class="t-search__icon-close"
@@ -1024,25 +1073,33 @@ exports[`Search > Search statusVue demo works fine 1`] = `
             
           </div>
           <div
-            class="t-cell t-cell--middle t-cell--bordered t-input t-input--size-small t-search__input"
+            class="t-input t-input--layout-horizontal t-input--size-small t-search__input"
           >
             <div
-              class="t-cell__left"
+              class="t-input__wrap--prefix"
             >
-              <!--v-if-->
-              <!--v-if-->
-            </div>
-            <!--v-if-->
-            <div
-              class="t-cell__note"
-            >
-              
               <div
-                class="t-input__wrap"
+                class="t-input__icon--prefix"
+              >
+                
+                
+                <!--v-if-->
+              </div>
+              <div
+                class="t-input__label"
+              >
+                <!---->
+              </div>
+            </div>
+            <div
+              class="t-input__wrap"
+            >
+              <div
+                class="t-input__content t-input--default"
               >
                 <input
                   autocomplete="Off"
-                  class="t-input__control"
+                  class="t-input__control t-input--default"
                   maxlength="-1"
                   name=""
                   placeholder="搜索预设文案"
@@ -1050,11 +1107,10 @@ exports[`Search > Search statusVue demo works fine 1`] = `
                 />
                 <!--v-if-->
                 <!--v-if-->
+                <!--v-if-->
               </div>
               <!--v-if-->
-              
             </div>
-            <!--v-if-->
           </div>
           <div
             class="t-search__icon-close"
