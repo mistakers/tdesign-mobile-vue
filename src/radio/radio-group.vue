@@ -5,6 +5,7 @@
         v-for="(opt, idx) in groupOptions"
         :key="`radio-group-options-${idx}-${Math.random()}`"
         :name="name"
+        :icon="icon"
         :checked="value === opt.value"
         :disabled="'disabled' in opt ? opt.disabled : disabled"
         :value="opt[keys?.value ?? 'value']"
